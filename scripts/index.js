@@ -326,7 +326,7 @@ window.addEventListener('load', () => {
     )} to ${subtractDaysFromDate(2).substring(
       3,
       10,
-    )} <br/> FREE VIDEO if you follow me on IG!🦋`
+    )} <br/> FREE VIDEO if you follow me on IG!🌙`
   }
 
   const getLocation = async () => {
